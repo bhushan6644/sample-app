@@ -17,3 +17,4 @@ spec:
         image: gcr.io/qwiklabs-gcp-03-4ab59afb9527/sample-app:v2.0
         ports:
         - containerPort: 8080
+# Official Production Rollback Verification
